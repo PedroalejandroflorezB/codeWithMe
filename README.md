@@ -40,4 +40,5 @@ Hi, I'm **Pedro Alejandro**, a student in the **ADSO – SENA** program (Softwar
 
 ## 📬 Direct Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-alejandro-florez-blanco-a134b5376/)
+- 📧 [pedroalejandroflorez20@gmail.com](mailto:pedroalejandroflorez20@gmail.com)
+
